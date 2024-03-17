@@ -1,0 +1,21 @@
+{
+  "name": "learn_ddd_byts",
+  "version": "1.0.0",
+  "description": "TypeScript を使用してドメイン駆動設計（DDD）の原則に基づいた API の構築を学ぶためのガイドのハンズオンリポジトリ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^26.0.24",
+    "@types/node": "^14.18.63",
+    "jest": "^26.6.3",
+    "ts-jest": "^26.5.6",
+    "ts-node": "^9.1.1",
+    "tsconfig-paths": "^3.15.0",
+    "typescript": "^4.9.5"
+  }
+}
